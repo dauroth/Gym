@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FITTYes</string>
+    <string name="action_settings">Settings</string>
+    <string name="FirstStep">Első lépések</string>
+    <string name="FirstStepButton">Első lépések inditása</string>
+    <string name="FITTYes">FITTYes</string>
+    <string name="FirstStepSave">Save first step settings</string>
+</resources>
