@@ -25,7 +25,7 @@ public class FirstStep extends AppCompatActivity {
 
     private DatePicker datePicker;
     private Calendar calendar;
-    private TextView dateView;// lolka
+    private TextView dateView;
     private int year, month, day;
 
     @Override
