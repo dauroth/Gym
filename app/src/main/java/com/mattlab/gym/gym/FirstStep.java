@@ -24,7 +24,7 @@ import java.util.Calendar;
 public class FirstStep extends AppCompatActivity {
 
     private DatePicker datePicker;
-    private Calendar calendar;
+    private Calendar calendar;//test
     private TextView dateView;// lolka
     private int year, month, day;
 
